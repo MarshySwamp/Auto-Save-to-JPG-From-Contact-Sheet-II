@@ -1,7 +1,7 @@
 # Auto-Save-to-JPG-From-Contact-Sheet-II
 A hack to the Contact Sheet II script to auto save the generated docs to a user selected file
 
-Extended coede to the original Adobe script has been flagged using the following opening/closing comments:
+Extended code to the original Adobe script has been flagged using the following opening/closing comments:
 
 ////////// Original Script Extended 2021 - Stephen Marsh ////////// 
 
